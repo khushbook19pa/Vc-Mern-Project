@@ -9,7 +9,7 @@ more than one user in the app.The button are there to pickup and hang up the cal
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/69208178/128592609-e38ec50d-8cb0-4f66-b7ac-06ea29a6078e.png)
+![App Screenshot](![image](https://github.com/khushbook19pa/Vc-Mern-Project/assets/63450932/4ce1e91d-6670-4363-8071-5da227519489)
 
   
 ## Deployment
@@ -57,5 +57,4 @@ Learned about the working of Socket.IO and Peerjs.
 
   
 ## Authors
-
-- [Rishabh Verma](https://www.github.com/aryan2621)
+-[khushboo kumari].
